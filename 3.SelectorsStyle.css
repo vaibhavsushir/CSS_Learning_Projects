@@ -32,7 +32,7 @@ div[id="myid"] p {
 }
 button:hover {
     background-color: black;
-    color: aqua;
+    color: yellow;
 }
 h3:hover{
     text-decoration: overline;
@@ -61,4 +61,5 @@ h3{
 }
 h3{
     background-color: aquamarine;
+
 }
