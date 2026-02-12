@@ -5,6 +5,7 @@ div{
     transition: 1s;
 }
 div:hover{
-    background-color: red;
+    background-color: aqua;
     border-radius: 50%;
+
 }
