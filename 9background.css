@@ -1,10 +1,11 @@
 div{
     height: 400px;
-    width: 800px;
+    width: 700px;
     background-color: aquamarine;
     border: 2px solid black;
     margin: 10px auto;
     background-image: url("background.jpg");
     background-size: cover;
     color: red;
+
 }
