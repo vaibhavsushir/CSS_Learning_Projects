@@ -22,7 +22,7 @@
 }
 @keyframes coloranimate{
     from{
-        background-color: green;
+        background-color: blue;
     }
     to{
         background-color: red;
@@ -36,3 +36,4 @@
         width: 400px;
     }
 }
+
